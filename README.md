@@ -1,2 +1,3 @@
-# Math-Statistic-2021
-Аcademic labs in Mathematical Statistics
+# Математическая статистика
+
+Цикл из 8 лабораторных работ по предмету "Математическая статистика"
